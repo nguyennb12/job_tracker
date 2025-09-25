@@ -1,6 +1,9 @@
 # Job Application Tracker
 A minimal, resume‑ready full‑stack app to track job applications. Built using FastAPI, React (Vite), Tailwind, and SQLite.
 
+## 💡 Project Motivation
+I built this project to help me keep track of the many job applications I was sending out. The process quickly became overwhelming, so I wanted a simple tool to organize applications, statuses, and notes in one place. At the same time, it gave me a fun opportunity to refresh my coding skills, revisit core concepts, and strengthen my memory by building something useful from scratch.
+
 ## 🚀 Features
 
 Add, edit, delete job applications.
@@ -23,4 +26,3 @@ Backend: FastAPI, SQLAlchemy, SQLite (swap with Postgres for production).
 
 Frontend: React (Vite), Tailwind CSS.
 
-Deployment: Render (API) + Vercel/Netlify (U
